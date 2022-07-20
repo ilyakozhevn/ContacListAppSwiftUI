@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0948AF432887E537000D2F8D /* ContacListApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContacListApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0948AF432887E537000D2F8D /* ContactListApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactListApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0948AF462887E537000D2F8D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0948AF482887E537000D2F8D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		0948AF4A2887E537000D2F8D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		0948AF442887E537000D2F8D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0948AF432887E537000D2F8D /* ContacListApp.app */,
+				0948AF432887E537000D2F8D /* ContactListApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0948AF422887E537000D2F8D /* ContacListApp */ = {
+		0948AF422887E537000D2F8D /* ContactListApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0948AF572887E53B000D2F8D /* Build configuration list for PBXNativeTarget "ContacListApp" */;
+			buildConfigurationList = 0948AF572887E53B000D2F8D /* Build configuration list for PBXNativeTarget "ContactListApp" */;
 			buildPhases = (
 				0948AF3F2887E537000D2F8D /* Sources */,
 				0948AF402887E537000D2F8D /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = ContacListApp;
+			name = ContactListApp;
 			productName = ContacListApp;
-			productReference = 0948AF432887E537000D2F8D /* ContacListApp.app */;
+			productReference = 0948AF432887E537000D2F8D /* ContactListApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0948AF3E2887E537000D2F8D /* Build configuration list for PBXProject "ContacListApp" */;
+			buildConfigurationList = 0948AF3E2887E537000D2F8D /* Build configuration list for PBXProject "ContactListApp" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0948AF422887E537000D2F8D /* ContacListApp */,
+				0948AF422887E537000D2F8D /* ContactListApp */,
 			);
 		};
 /* End PBXProject section */
@@ -339,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0948AF3E2887E537000D2F8D /* Build configuration list for PBXProject "ContacListApp" */ = {
+		0948AF3E2887E537000D2F8D /* Build configuration list for PBXProject "ContactListApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0948AF552887E53B000D2F8D /* Debug */,
@@ -348,7 +348,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0948AF572887E53B000D2F8D /* Build configuration list for PBXNativeTarget "ContacListApp" */ = {
+		0948AF572887E53B000D2F8D /* Build configuration list for PBXNativeTarget "ContactListApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0948AF582887E53B000D2F8D /* Debug */,
